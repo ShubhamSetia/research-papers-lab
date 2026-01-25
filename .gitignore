@@ -1,0 +1,29 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.iml
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Go
+*.exe
+go.work
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.cursor/
+
